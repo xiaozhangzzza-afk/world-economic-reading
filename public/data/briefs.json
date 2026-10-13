@@ -1,0 +1,114 @@
+{
+  "briefs": [
+    {
+      "date": "2026-10-13",
+      "status": "complete",
+      "items": [
+        {
+          "title": "全球稳定币：跨境脆弱性与金融稳定监测",
+          "source": "金融稳定理事会 FSB",
+          "published": "2026-10-12",
+          "url": "https://www.fsb.org/uploads/P121026-2.pdf",
+          "category": "货币",
+          "conclusion": "稳定币可全天候跨境交易，但储备变现和赎回仍受传统金融市场约束，错配可能将挤兑传导至银行、储备资产和外汇市场。",
+          "value": "判断数字美元扩张的风险，需要看储备在哪里、谁承担赎回，以及压力下资金能否跨境调动。关注脱锚幅度、赎回集中度和储备资产流动性，比仅看发行规模更有预警价值。",
+          "limit": "FSB 指出，持有人所在地及用途的数据仍有明显缺口。"
+        },
+        {
+          "title": "变革性 AI 与需求瓶颈",
+          "source": "BIS · Phurichai Rungcharoenkitkul",
+          "published": "2026-10-12",
+          "url": "https://www.bis.org/publications/working-paper-1381-transformative-ai-and-demand-bottlenecks.pdf",
+          "category": "经济",
+          "conclusion": "作者模型中，AI 自动化所需的大规模投资可能压低消费占比、削弱创新回报，使增长先加速后放缓。",
+          "value": "为“AI 必然带来持续高增长与更高长期利率”提供明确反例。应同时观察 AI 投资、消费收入及商业化回报，不能把建设热潮直接当成持续生产率突破。",
+          "limit": "这是依赖特定假设的模型情景，不是已经证实的经济趋势。"
+        },
+        {
+          "title": "系统性银行处置的公共资金后备机制评估",
+          "source": "金融稳定理事会 FSB",
+          "published": "2026-10-09",
+          "url": "https://www.fsb.org/2026/10/thematic-review-on-public-sector-backstop-funding-mechanisms-peer-review-report/",
+          "category": "金融",
+          "conclusion": "多数受评司法辖区的公共资金后备机制仍未完整落实，可能削弱大型银行危机时的有序处置能力。",
+          "value": "比较各国金融韧性，除资本比率还应检查临时流动性资金授权、拨付速度和损失回收安排。它帮助判断银行危机是否会被处置机制放大。",
+          "limit": "补录。依据官方摘要与发布说明，PDF 未能读取；不代表各国整体危机处置能力排名。"
+        }
+      ],
+      "updatedAt": "2026-10-13T01:41:24.408Z"
+    },
+    {
+      "date": "2026-10-12",
+      "status": "complete",
+      "items": [
+        {
+          "title": "全球经济：温和复苏，基础仍不稳",
+          "source": "Brookings–FT TIGER · Eswar Prasad、Thomas Riveros",
+          "published": "2026-10-11",
+          "url": "https://www.brookings.edu/articles/october-2026-update-to-tiger-a-modest-recovery-built-on-shaky-foundations/",
+          "category": "经济",
+          "conclusion": "全球增长已趋稳，但持续通胀、公共债务与地缘政治风险压缩政策缓冲空间，市场对 AI 生产率提升寄予很高期待。",
+          "value": "削弱了全球衰退已不可避免的情景，但下一次能源或金融冲击更难靠降息与财政扩张化解。跟踪政府债券收益率、家庭信心与 AI 投资的实际生产率回报。"
+        },
+        {
+          "title": "10 万亿美元的问题：AI 建设如何融资",
+          "source": "Brookings · Stijn Van Nieuwerburgh 访谈",
+          "published": "2026-10-08",
+          "url": "https://www.brookings.edu/articles/the-10-trillion-question-financing-the-ai-buildout/",
+          "category": "金融",
+          "conclusion": "AI 基础设施融资转向合资企业、私人信贷与特殊目的实体，使科技公司的账面债务更难反映完整经济风险。",
+          "value": "观察项目债务、租赁承诺、担保和基金赎回安排，判断资本开支放缓如何传导至私人信贷与设备抵押价值。",
+          "limit": "补录。建设规模为模型估算，作者认为目前不足以认定系统性风险。"
+        }
+      ],
+      "updatedAt": "2026-10-13T01:41:26.128Z"
+    },
+    {
+      "date": "2026-10-10",
+      "status": "complete",
+      "items": [
+        {
+          "title": "理解通胀：通胀风险期限结构提供的信息",
+          "source": "欧洲央行工作论文 3294",
+          "published": "2026-10-05",
+          "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3294~343f6d6c31.en.pdf",
+          "category": "货币",
+          "conclusion": "短期通胀风险与油价和当前物价关系更强，长期风险更受货币与金融条件影响，不能用单个预期数字判断冲击持续性。",
+          "value": "判断能源涨价是否阻止降息，应并看短期和长期通胀风险。长期风险也上升时，需要提高对持续紧缩的警惕。",
+          "limit": "欧元区 2009—2026 年数据；期权隐含概率包含风险溢价，不等于实际概率。"
+        },
+        {
+          "title": "东盟能源安全评估",
+          "source": "国际能源署 IEA",
+          "published": "2026-10-06",
+          "url": "https://www.iea.org/reports/asean-energy-security-review",
+          "category": "地缘与能源",
+          "conclusion": "东南亚用能增长叠加油气进口依赖，使这一增长中心更易受到战争、航道受阻和燃料价格冲击。",
+          "value": "评估产业转移，应比较各国能源进口依赖、储备和电网能力。电网建设、供电可靠性与 LNG 成本是未来制造业竞争力的重要约束。",
+          "limit": "依据报告公开概览和执行摘要。"
+        },
+        {
+          "title": "用压力损耗指标监测银行脆弱性",
+          "source": "欧洲央行工作论文 3295",
+          "published": "2026-10-07",
+          "url": "https://www.ecb.europa.eu/pub/pdf/scpwps/ecb.wp3295~5961ce0e96.en.pdf",
+          "category": "金融",
+          "conclusion": "银行当期利润改善可以与不利情景下的资本风险上升同时发生，盈利好不足以证明金融体系更安全。",
+          "value": "识别高利率提高银行利润、却积累借款人信用风险的情景。并看盈利、压力测试资本损耗和借款人状况，判断未来信贷能力。",
+          "limit": "风险监测方法，不是即将发生危机的预测。"
+        },
+        {
+          "title": "中国从俄乌无人机战争吸收了什么",
+          "source": "CSIS · Lilly Min-Chen Lee、Kateryna Bondar",
+          "published": "2026-10-07",
+          "url": "https://www.csis.org/analysis/learning-without-bleeding-chinas-lessons-russia-ukraine-drone-war",
+          "category": "战争",
+          "conclusion": "作者发现，中国对战场新技术的公开分析平均滞后约四个月，但转化为装备、训练和组织能力通常需一年或更久。",
+          "value": "跟踪采购、反无人机训练与部队组织变化，观察战争技术向东亚外溢。",
+          "limit": "九十余份 2022 年 7 月至 2026 年 8 月中文来源；公开学习速度不能直接证明实战能力或战争时间。"
+        }
+      ],
+      "updatedAt": "2026-10-13T01:41:26.708Z"
+    }
+  ]
+}
