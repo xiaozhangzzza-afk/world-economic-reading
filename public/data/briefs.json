@@ -1,6 +1,12 @@
 {
   "briefs": [
     {
+      "date": "2026-10-18",
+      "status": "empty",
+      "items": [],
+      "updatedAt": "2026-10-18T01:00:27.939Z"
+    },
+    {
       "date": "2026-10-17",
       "status": "complete",
       "items": [
